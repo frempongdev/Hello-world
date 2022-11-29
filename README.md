@@ -65,7 +65,7 @@
 
 ## 👥 Author <a name="authors"></a>
 
-- GitHub: [@gfrempongdev](https://github.com/frempongdev)
+- GitHub: [@frempongdev](https://github.com/frempongdev)
 - Twitter: [@knobaddy](https://twitter.com/knobaddy)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
